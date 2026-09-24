@@ -23,5 +23,8 @@
     - [ ] Validation: Setters error check by returning a boolean, constructors do not allow "bad data" into the object (shutdown program)
 - [ ] **Indentation:** Consistent formatting throughout.
 
-### 4. Hacker Challenge (Optional)
+### 4. Submit Final Project Idea (Canvas)
+- [ ] Don't forget to submit your final project idea (2-3 sentences) on Canvas to start brainstorming what you will build by the end of the semester!
+
+### 5. Hacker Challenge (Optional)
 - [ ] **ASCII Art:** Successfully implemented `getPrintCard` logic to display visual cards.
